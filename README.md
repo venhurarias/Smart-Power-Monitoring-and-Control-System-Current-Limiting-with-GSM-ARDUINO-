@@ -239,5 +239,5 @@ It is suitable for:
 - automation systems  
 - IoT prototyping
 
-<img src="images/wiring_diaggram.jpg" height="200"/>
+<img src="images/wiring_diagram.jpg" height="200"/>
 <img src="images/prototype.jpg" height="200"/>
