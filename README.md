@@ -237,4 +237,7 @@ It is suitable for:
 - home electrical safety  
 - industrial load monitoring  
 - automation systems  
-- IoT prototyping  
+- IoT prototyping
+
+<img src="images/wiring_diaggram.jpg" height="200"/>
+<img src="images/prototype.jpg" height="200"/>
